@@ -11,6 +11,12 @@
 <p align="center"><b>Data Engineer · Cloud Architect · AI Builder · Creator of mygol.ai</b></p>
 
 <p align="center">
+  <a href="https://www.credly.com/badges/03a67fae-ed96-4191-b818-b86e185b4e66" target="_blank">
+    <img src="assets/cloud-certified-badge.png" alt="Google Cloud Certified — Professional Cloud Architect" height="110" />
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:adi.dubey552@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adi.dubey552%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/adityadubey09/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adityadubey09-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Ps-budd?tab=followers" target="_blank"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/Ps-budd?label=Follow&style=for-the-badge"></a>
