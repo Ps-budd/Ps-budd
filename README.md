@@ -14,6 +14,12 @@
   <a href="https://www.credly.com/badges/03a67fae-ed96-4191-b818-b86e185b4e66" target="_blank">
     <img src="assets/cloud-certified-badge.png" alt="Google Cloud Certified — Professional Cloud Architect" height="110" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://badgecert.com/bc/html/groupbadges.html?k=cEdZWmRUMjZ0dm9CTDl5dndMbEh2RGs0cTkybW0yb2Q" target="_blank">
+    <img src="assets/badge-7227.png" alt="Certified ScrumMaster (CSM) — Scrum Alliance" height="110" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/tableau%20badge.png" alt="Tableau Desktop Specialist" height="110" />
 </p>
 
 <p align="center">
@@ -47,6 +53,10 @@
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/03a67fae-ed96-4191-b818-b86e185b4e66" target="_blank">
     <img src="assets/certificate-Google-cloud-architect.png" alt="Google Cloud Professional Cloud Architect" height="120" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="assets/Coursera%20DM39ZLGLDQ3J.pdf" target="_blank">
+    <img src="assets/coursera.png" alt="Coursera — Stanford Machine Learning (Andrew Ng)" height="120" />
   </a>
 </p>
 
