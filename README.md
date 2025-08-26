@@ -1,59 +1,65 @@
-<!--
-  PROFILE README for: Ps-budd
-  Tips:
-  1) Add a banner image at assets/banner.png (1200x300) and it will render below.
-  2) Update links + repo names where marked.
--->
+<!-- Polished GitHub Profile README for Ps-budd -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="Aditya Dubey — Data Engineer • AI Builder" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark.svg" />
+    <img src="assets/banner_light.svg" alt="Aditya Dubey — Data Engineer • Cloud Architect • AI Builder" width="100%" />
+  </picture>
 </p>
 
-<h1 align="center">Hi, I'm Aditya — Data Engineer • AI Builder • Creator of mygol.ai</h1>
+<h1 align="center">Aditya Dubey</h1>
+<p align="center"><b>Data Engineer · Cloud Architect · AI Builder · Creator of mygol.ai</b></p>
 
 <p align="center">
-  <a href="mailto:adi.dubey552@gmail.com"><img src="https://img.shields.io/badge/Email-adi.dubey552%40gmail.com-informational?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://mygol.ai" target="_blank"><img src="https://img.shields.io/badge/Website-mygol.ai-blue?style=flat&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/adityadubey09/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-adityadubey09-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Ps-budd?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Ps-budd?label=Follow&style=flat"></a>
-  <img src="https://komarev.com/ghpvc/?username=Ps-budd&style=flat&label=Profile+Views" alt="profile views"/>
+  <a href="mailto:adi.dubey552@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adi.dubey552%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adityadubey09/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adityadubey09-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Ps-budd?tab=followers" target="_blank"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/Ps-budd?label=Follow&style=for-the-badge"></a>
+  <a href="assets/Aditya_Dubey_Resume.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-4B8BBE?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=Ps-budd&style=for-the-badge&label=Views" alt="profile views"/>
+</p>
+
+<p>
+  <img align="right" src="assets/linkdin_profile_pic.jpeg" alt="Aditya Dubey" width="140" />
+  Innovative Data Engineer with 5+ years building cloud‑native data platforms and privacy‑first APIs on GCP/AWS/Snowflake. Led cost and latency wins including <b>$100K/month</b> BigQuery savings and <b>87%</b> delivery‑SLA reduction. I ship observable, scalable systems and pragmatic LLM/RAG features with guardrails.
 </p>
 
 ---
 
-### 🚀 What I do
-- Build **cloud-native data platforms** on **GCP/AWS/Snowflake** (BigQuery, Cloud Run, Dataflow, Pub/Sub, dbt, Airflow, Spark).
-- Ship **privacy-first APIs** (GDPR/CCPA) and **LLM/RAG** features using OpenAI/Gemini/Claude with guardrails.
-- Obsessed with **speed & cost**: saved **~$100K/month** BigQuery; cut delivery SLAs by **87%**.
-
-> **Now building:** **mygol.ai** — job-apply engine powered by Playwright + n8n + Cloud Run microservices + Next.js/Vercel + Postgres.
-
----
-
-### 🧩 Featured Builds 
-- **First-Party Segment API (GCP)** — Cloud Run + API Gateway + Pub/Sub/Dataflow; OpenTelemetry tracing; opt-out & expiration endpoints.  
-  `GCP` · `Cloud Run` · `API Gateway` · `BigQuery` · `OpenTelemetry`  
-  **Repo:** `Ps-budd/first-party-segment-api` <!-- update if different -->
-
-- **CRM Delivery Platform** — PII encryption/salting; SFTP/GCS/S3 **chunked delivery** with retries; **2 days → 6 hours**.  
-  `Python/Go` · `S3/GCS/SFTP` · `Retries` · `Checksums`  
-  **Repo:** `Ps-budd/crm-delivery-platform`
-
-- **LLM Audience Segmenter** — NL → audience segments; **90%** manual effort ↓; **85%** launch time ↓; hallucination-mitigation guardrails + evals.  
-  `FastAPI` · `OpenAI/Gemini` · `Guardrails` · `Evals`  
-  **Repo:** `Ps-budd/llm-audience-segmentation`
-
-- **BigQuery Cost Optimizer** — stored procedures + usage analyzer; partition/prune; **~$100K/month** saved.  
-  `BigQuery` · `SQL` · `Scheduler`  
-  **Repo:** `Ps-budd/bq-cost-optimizer`
-
-- **DE Boilerplate (GCP)** — cookiecutter; Airflow/dbt/Spark flavors; CI, IaC, observability baked in.  
-  `Cookiecutter` · `Terraform` · `GitHub Actions` · `OpenTelemetry`  
-  **Repo:** `Ps-budd/de-boilerplate-gcp`
+### 🚀 What I’m focused on
+- Cloud‑native data platforms on <b>GCP</b> (Cloud Run, Dataflow, Pub/Sub, BigQuery, dbt, Airflow, Spark)
+- Privacy‑first APIs (GDPR/CCPA), observability with OpenTelemetry, and async event pipelines
+- AI features: LLM/RAG, evals and hallucination mitigation for production reliability
+- Now building: <b>mygol.ai</b> — an automated job‑apply engine on Cloud Run + Next.js
 
 ---
 
-### 🔧 Toolbox (select)
+### 🏅 Certifications
+<p>
+  <a href="https://badgecert.com/bc/html/groupbadges.html?k=cEdZWmRUMjZ0dm9CTDl5dndMbEh2RGs0cTkybW0yb2Q" target="_blank">
+    <img src="assets/csm-badge.png" alt="Certified ScrumMaster" height="120" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/03a67fae-ed96-4191-b818-b86e185b4e66" target="_blank">
+    <img src="assets/certificate-Google-cloud-architect.png" alt="Google Cloud Professional Cloud Architect" height="120" />
+  </a>
+</p>
+
+---
+
+### 🧩 Featured builds
+- <b>First‑Party Segment API (GCP)</b> — Cloud Run + API Gateway + Pub/Sub/Dataflow; OpenTelemetry tracing; opt‑out & expiration endpoints.  
+  <sub>Stack:</sub> `GCP` · `Cloud Run` · `API Gateway` · `BigQuery` · `OpenTelemetry`
+
+- <b>CRM Delivery Platform</b> — PII encryption/salting; SFTP/GCS/S3 <b>chunked delivery</b> with retries; <b>2 days → 6 hours</b>.
+
+- <b>LLM Audience Segmenter</b> — NL → audience segments; <b>90%</b> manual effort ↓; <b>85%</b> launch time ↓; guardrails + evals.  
+  <sub>Stack:</sub> `FastAPI` · `OpenAI/Gemini` · `Guardrails` · `Evals`
+
+- <b>BigQuery Cost Optimizer</b> — stored procedures + usage analyzer; partition/prune; <b>~$100K/month</b> saved.
+
+---
+
+### 🔧 Toolbox
 <p>
   <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white">
   <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white">
@@ -81,19 +87,17 @@
 
 ---
 
-### 🗺️ Platform at a glance (Mermaid)
-```mermaid
-flowchart LR
-  U[Users/Jobs] -->|HTTP| GW(API Gateway)
-  GW --> CR{Cloud Run Services}
-  CR -->|Async| PS[Pub/Sub]
-  PS --> DF[Dataflow]
-  DF --> BQ[(BigQuery)]
-  BQ --> DBT[dbt Models]
-  DBT --> OUT[Looker/Metabase/Apps]
+### 📈 GitHub at a glance
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ps-budd&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps-budd&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
-  subgraph Observability
-    OTLP[OpenTelemetry] --> GLogs[Cloud Logging/Tracing]
-  end
-  CR -.trace.-> OTLP
-  DF -.metrics.-> OTLP
+---
+
+### 📬 Get in touch
+- Email: <a href="mailto:adi.dubey552@gmail.com">adi.dubey552@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/adityadubey09/" target="_blank">adityadubey09</a>
+- Resume: <a href="assets/Aditya_Dubey_Resume.pdf" target="_blank">PDF</a>
+
+<sub>Always happy to chat about data platforms, cloud, and productionizing AI.</sub>
