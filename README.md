@@ -71,6 +71,14 @@
 ### 📚 Popular repositories
 - <b>Kafka Stock Streaming (TSLA prototype)</b> — Stream stock price ticks from Polygon.io into Kafka, persist to Postgres, and compute SMA-based alerts.
   <a href="https://github.com/Ps-budd/kafka-stock-streaming" target="_blank">github.com/Ps-budd/kafka-stock-streaming</a>
+  <blockquote>
+    <sub><b>Skills:</b></sub><br/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+    <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+    <img alt="REST API" src="https://img.shields.io/badge/REST%20API-FF6C37?logo=postman&logoColor=white">
+  </blockquote>
 
 ---
 
