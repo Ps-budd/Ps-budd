@@ -62,6 +62,12 @@
 
 ---
 
+### 🌟 Highlighted repository
+- <b>Kafka Stock Streaming (TSLA prototype)</b> — Stream stock price ticks from Polygon.io into Kafka, persist to Postgres, and compute SMA-based alerts.
+  <a href="https://github.com/Ps-budd/kafka-stock-streaming" target="_blank">github.com/Ps-budd/kafka-stock-streaming</a>
+
+---
+
 ### 🧩 Featured builds
 - <b>First‑Party Segment API (GCP)</b> — Cloud Run + API Gateway + Pub/Sub/Dataflow; OpenTelemetry tracing; opt‑out & expiration endpoints.  
   <sub>Stack:</sub> `GCP` · `Cloud Run` · `API Gateway` · `BigQuery` · `OpenTelemetry`
